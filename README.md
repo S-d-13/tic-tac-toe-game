@@ -16,7 +16,6 @@ A simple, responsive **Tic Tac Toe game** built using **HTML**, **CSS**, and **V
 ### 📸 Screenshot
 
 <img src="screenshot.png" alt="Tic Tac Toe Screenshot" width="500" height="auto" />
-![Tic Tac Toe Screenshot](screenshot.png)
 
 ---
 
